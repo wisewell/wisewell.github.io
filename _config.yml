@@ -100,6 +100,3 @@ exclude:
   - README.md
   - CNAME
 
-  # Set timezone
-  timezone: Asia/Seoul
-
