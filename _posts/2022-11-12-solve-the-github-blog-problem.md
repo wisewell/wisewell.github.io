@@ -25,7 +25,7 @@ _고경희, 이고잉, 『지옥에서 온 문서 관리자 깃&깃허브 입문
 
 <https://jekyllrb.com/docs/configuration/options/>
 
-[00d862f](https://github.com/wisewell/wisewell.github.io/commit/00d862fc397693a939f0984ee67792ac9b0e6463 "Set timezone 커밋")
+[00d862f](https://github.com/wisewell/wisewell.github.io/commit/00d862fc397693a939f0984ee67792ac9b0e6463)
 
 그외에 baseurl 옵션은 기본값으로 되돌려준 것이다. 어젯밤에 배포를 시도했을 때는 어째서인지 정상적으로 build가 되지 않았기 때문에. __timezone 옵션 표기 라인을 옮겨서 작성하니 무사히 build되었다.__
 
