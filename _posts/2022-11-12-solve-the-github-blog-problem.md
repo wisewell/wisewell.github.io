@@ -2,7 +2,7 @@
 layout: post
 title: GitHub 블로그 포스트 확인할 수 없는 문제 해결
 categories: [GitHub, Blog]
-date: 2022-11-12 12:43:00
+date: 2022-11-12 13:11:00
 ---
 
 ## 왜 GitHub Page 블로그인가
