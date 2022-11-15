@@ -9,3 +9,4 @@ permalink: /about/
 ## 현재 공부 중인 것
 
 - Git과 브랜치 전략, GitHub 사용법
+- RPA (UiPath) by KS아카데미, UiPath Business Partner Program
