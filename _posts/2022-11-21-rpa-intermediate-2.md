@@ -76,4 +76,4 @@ __변수(String) 처리가 가능 → \{\{VariableName\}\}__
 - Output > RowIndex : 찾는 값의 Row Index (DT2)
 
 ## Path.Combine(String, String)
-\(역슬래시)를 붙여준다.
+\\\(역슬래시)를 붙여준다.
