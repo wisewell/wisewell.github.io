@@ -50,7 +50,7 @@ RPA 공통 프로세스를 수시로 활용
 
 ## 셀렉터 활용
 UI 속성값을 저장한 표준 XML 코드<br>
-__변수(String) 처리가 가능 → {{VariableName}}__
+__변수(String) 처리가 가능 → \{\{VariableName\}\}__
 
 ## 기타 액티비티
 
